@@ -43,7 +43,7 @@ public class Main {
             t = t + zarabotal;
             System.out.println("Месяц " + i + " сумма накоплений равна " + t + " рублей");
         }
-        System.out.println("задание 10");
+        System.out.println("задание-10");
         int e = 2;
         for (int j = 1; j <= 10; j++) {
             System.out.println(e + "*" + j + "=" + e * j);
